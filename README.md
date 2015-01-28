@@ -14,3 +14,8 @@
 代码其实很简单，主要就是用到canvas。然后，主要的原理就是：相对坐标系的概念，即代码中的旋转的坐标系（顿时高大上有木有，嘻嘻），
 
 欢迎大家：**star，fork...**
+
+## 另外 ：##
+
+自己的另一个相似的效果： [https://github.com/wly2014/RotationalDrawable](https://github.com/wly2014/RotationalDrawable);
+ 
